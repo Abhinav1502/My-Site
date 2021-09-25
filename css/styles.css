@@ -30,13 +30,13 @@ li{
   padding: 1em;
 }
 
-hr{
+hr.dots{
   border-style: none none dotted;
-  border-width: 6px;
+  border-width: 8px;
   width: 5%;
-  border-color: lightgrey;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  border-color: grey;
+  margin: 50px auto;
+  background-color: inherit;
 }
 
 /* Navigation Bar  */
