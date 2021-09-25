@@ -51,10 +51,12 @@ hr{
 
 .navigation-ul{
   margin-left: 5%;
+  margin-right: 5%;
 }
 
+
 .A-icon{
-  margin: 0 50%;
+  margin:0 auto;
   color:rgba(0,0,0,.55);
   transition: all 0.3s;
 }
@@ -90,13 +92,13 @@ hr{
 .top-cloud{
   position: absolute;
   margin-top: 40px;
-  top:57px;
-  right: 300px;
+  top:1rem;
+  right: 20rem;
 }
 .bottom-cloud{
   position: absolute;
   left: 300px;
-  bottom: 320px;
+  bottom: 19rem;
 }
 
 .mountain-img{
