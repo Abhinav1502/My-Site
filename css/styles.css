@@ -92,13 +92,13 @@ hr{
 .top-cloud{
   position: absolute;
   margin-top: 40px;
-  top:1rem;
+  top:2%;
   right: 20rem;
 }
 .bottom-cloud{
   position: absolute;
   left: 300px;
-  bottom: 19rem;
+  bottom: 18rem;
 }
 
 .mountain-img{
